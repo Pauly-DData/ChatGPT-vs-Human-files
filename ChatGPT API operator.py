@@ -2,7 +2,7 @@ import openai
 import pandas as pd
 
 # Set up your OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 
 # Load your dataset using pandas (assuming it's in CSV format)
 data = pd.read_csv(r'C:/Users/1948NM/Documents/Technische bedrijfskunde/Jaar 2 - 2017 -2019/Blok 1/Programmeren en visualiseren/final_file_versie_3.csv', delimiter=';')
