@@ -2,7 +2,7 @@ import openai
 import pandas as pd
 
 # Set up your OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 
 # Load your dataset using pandas (assuming it's in CSV format)
 # Load your CSV file using pandas
