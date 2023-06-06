@@ -2,7 +2,7 @@ import openai
 import pandas as pd
 
 # Set up your OpenAI API key
-openai.api_key = "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"
+openai.api_key = " "
 
 # Load your dataset using pandas (assuming it's in Excel format)
 data = pd.read_excel('Randon_Version_reformatted_dataset.xlsx')
