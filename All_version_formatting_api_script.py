@@ -5,7 +5,7 @@ import requests.exceptions
 
 
 # Set up your OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 
 # Load your dataset using pandas (assuming it's in Excel format)
 data = pd.read_excel('dataset_ready_to_be_formatted.xlsx')
