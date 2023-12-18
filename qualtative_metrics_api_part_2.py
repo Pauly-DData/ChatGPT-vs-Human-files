@@ -5,7 +5,7 @@ import numpy as np
 from openai.error import RateLimitError
 
 # Set up your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "sk-"
 # Load your dataset using pandas
 filename = 'Randon_final_doc.xlsx'
 data = pd.read_excel(filename)
